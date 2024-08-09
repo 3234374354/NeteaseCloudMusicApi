@@ -2,7 +2,7 @@
 
 网易云音乐 Node.js API service
 
-**次仓库镜像自https://github.com/Binaryify/NeteaseCloudMusicApi**
+**此仓库镜像自https://github.com/Binaryify/NeteaseCloudMusicApi**
 
 <p>
 <a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/npm/v/NeteaseCloudMusicApi.svg" alt="Version"></a>
